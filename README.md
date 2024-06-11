@@ -1,6 +1,6 @@
 <h1> Hi,I'm Umar 👋</h1>
 - 🔭 currently working as Freelancer </br>
-- 🌱 mastering Backend Development </br>
+- 🌱 Building Full Stack Projects </br>
 - 👯 looking to collaborate on Full Stack Role </br>
 - 🤔 looking for help in Data Science </br>
 - 💬 Ask me about Web Developmemt </br>
