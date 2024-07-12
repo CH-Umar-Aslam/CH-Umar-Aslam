@@ -1,5 +1,5 @@
 <h1> Hi,I'm Umar 👋</h1>
-- 🔭 Currently working as React developer at  <b> Legal Assist </b> </br>
+- 🔭 Currently working as Full Stack developer at  <b> TMR Consulting </b> </br>
 - 🌱 Learning Data Science</br>
 - 👯 Looking to collaborate on Full Stack Role </br>
 - 🤔 Looking for help in Data Science </br>
