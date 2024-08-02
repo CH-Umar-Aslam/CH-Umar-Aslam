@@ -9,11 +9,8 @@
 -Project urls:
 
 <a href="https://ezitech-clone.netlify.app/">Ezitech clone</a>
-<br/>
 <a href="https://password-picker.netlify.app/">Password picker</a>
-<br/>
 <a href="https://react18-todo.vercel.app/">Todo app</a>
-<br/>
 <a href="https://lms-dashboard-next.vercel.app/">Lms dashboard</a>
 
  
