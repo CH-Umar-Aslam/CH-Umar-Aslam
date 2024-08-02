@@ -8,9 +8,9 @@
 - ⚡ Fun fact: Passionate about innovation and problem solving and curious to dive into the world of Data Science.</br>
 -Project urls:
 
-<a href="https://ezitech-clone.netlify.app/">Ezitech clone</a>
-<a href="https://password-picker.netlify.app/">Password picker</a>
-<a href="https://react18-todo.vercel.app/">Todo app</a>
+<a href="https://ezitech-clone.netlify.app/">Ezitech clone</a> <t/>
+<a href="https://password-picker.netlify.app/">Password picker</a><t/>
+<a href="https://react18-todo.vercel.app/">Todo app</a><t/>
 <a href="https://lms-dashboard-next.vercel.app/">Lms dashboard</a>
 
  
