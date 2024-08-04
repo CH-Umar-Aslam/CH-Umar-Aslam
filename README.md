@@ -49,12 +49,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CH-UMAR-ASLAM&" alt="CH-UMAR-ASLAM" /></p>
 
-Live Projects:
-<a href="umars-ecommerce.vercel.app/">Ecommece web app</a> <t/>
-<a href="recgenz.com/">Internship contribution</a> <t/>
-<a href="https://ezitech-clone.netlify.app/">Ezitech clone</a> <t/>
-<a href="https://password-picker.netlify.app/">Password picker</a><t/>
-<a href="https://react18-todo.vercel.app/">Todo app</a><t/>
-<a href="https://lms-dashboard-next.vercel.app/">Lms dashboard</a>
+Live Projects
+
+<a href="https://umars-ecommerce.vercel.app/">Ecommece web app</a> <t/><br/>
+Industrial Project <a href="https://recgenz.com/">Recgenz's Site</a> <t/><br/>
+<a href="https://ezitech-clone.netlify.app/">Ezitech clone</a> <t/><br/>
+<a href="https://password-picker.netlify.app/">Password picker</a><t/><br/>
+<a href="https://react18-todo.vercel.app/">Todo app</a><t/><br/>
+<a href="https://lms-dashboard-next.vercel.app/">Lms dashboard</a><br/>
 
  
