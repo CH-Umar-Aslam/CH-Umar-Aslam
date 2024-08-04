@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **chumaraslam22@gmail.com**
+- 📫 How to reach me **chumaraslam22@gmail.com** <a href="https://www.linkedin.com/in/ch-umar-aslam">LinkedIn</a><br/>
 
 -  ⚡ Fun fact: Passionate about innovation and problem solving and curious to dive into the world of Data Science.</br>
 
