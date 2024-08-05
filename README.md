@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **chumaraslam22@gmail.com** <a href="https://www.linkedin.com/in/ch-umar-aslam">LinkedIn</a><br/>
 
--  ⚡ Fun fact: Passionate about innovation and problem solving and curious to dive into the world of Data Science.</br>
+-  ⚡ Fun fact: Passionate about innovation and problem solving and curious to dive into the depth of Data Science.</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
