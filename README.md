@@ -1,5 +1,5 @@
  <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Pi-unrolled-720.gif" height="250"  alt="master head"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Pi-unrolled-720.gif" height="250" autoplay=true  alt="master head"> 
 </div>
 
 
