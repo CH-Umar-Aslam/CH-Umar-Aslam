@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working at **TMR Consulting**
 
-- 🌱 I’m currently learning **Django,Python**
+- 🌱 I’m currently learning **Macine Learning**
 
 - 💬 Ask me about **Web Development**
 
