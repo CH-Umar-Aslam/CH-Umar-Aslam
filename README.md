@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Web Development & ML**
 
-- 📫 How to reach me **chumaraslam22@gmail.com** <a href="https://www.linkedin.com/in/ch-umar-aslam">LinkedIn</a> <a href="https://ch-umar-aslam.github.io/codebase/">Portfolio</a><br/>
+- 📫 How to reach me **chumaraslam22@gmail.com** <a href="https://www.linkedin.com/in/ch-umar-aslam"> LinkedIn </a>  <a href="https://ch-umar-aslam.github.io/codebase/"> Portfolio </a><br/>
 
 -  ⚡ Fun fact: Passionate about innovation and problem solving and curious to dive into the depth of Data Science.</br>
 
