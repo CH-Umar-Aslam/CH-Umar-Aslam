@@ -12,11 +12,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CH-Umar-Aslam&label=Profile%20views&color=0e75b6&style=flat" alt="umaraslam" /> </p>
 
-- 🔭 I’m currently working at **TMR Consulting**
+- 🔭 working at **TMR Consulting**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 Doing **aws solution architect** Certification
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development & ML**
 
 - 📫 How to reach me **chumaraslam22@gmail.com** <a href="https://www.linkedin.com/in/ch-umar-aslam">LinkedIn</a> <a href="https://ch-umar-aslam.github.io/codebase/">Portfolio</a><br/>
 
