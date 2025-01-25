@@ -47,7 +47,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CH-Umar-Aslam&show_icons=true&locale=en" alt="CH-UMAR-ASLAM" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CH-Umar-Aslam" alt="CH-UMAR-ASLAM" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CH-Umar-Aslam" alt="" /></p>
 
 Live Projects
 
