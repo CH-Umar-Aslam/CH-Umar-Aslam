@@ -43,7 +43,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CH-Umar-Aslam&show_icons=true&locale=en&layout=compact" alt="CH-Umar-Aslam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CH-Umar-Aslam&show_icons=true&locale=en&layout=compact" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CH-Umar-Aslam&show_icons=true&locale=en" alt="CH-UMAR-ASLAM" /></p>
 
