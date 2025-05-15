@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CH-Umar-Aslam&label=Profile%20views&color=0e75b6&style=flat" alt="umaraslam" /> </p>
 
-- 🔭 Full Stack(Python/React) Developer at **TMR Consulting**
+- 🔭 Full Stack (Python/React) Developer at **TMR Consulting**
 
 - 🌱 Doing **aws solution architect** Certification
 
