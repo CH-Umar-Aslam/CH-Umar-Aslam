@@ -14,7 +14,7 @@
 
 - 🔭 Full Stack (Python/React) Developer at **TMR Consulting**
 
-- 🌱 Doing **aws solution architect** Certification
+- 🌱 Doing **Image Detection with Deep Learning**
 
 - 💬 Ask me about **Web Development & ML**
 
