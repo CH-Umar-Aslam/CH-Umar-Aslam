@@ -14,9 +14,9 @@
 
 - 🔭 Full Stack AI Developer at **TMR Consulting**
 
-- 🌱 Doing **Image Detection with Deep Learning**
+- 🌱 Building **Smart Agentic Systems**
 
-- 💬 Ask me about **Web Development & ML/DL**
+- 💬 Ask me about **AI | Web Development**
 
 - 📫 How to reach me **chumaraslam22@gmail.com** <a href="https://www.linkedin.com/in/ch-umar-aslam"> LinkedIn </a>  <a href="https://ch-umar-aslam.github.io/codebase/"> Portfolio </a><br/>
 
