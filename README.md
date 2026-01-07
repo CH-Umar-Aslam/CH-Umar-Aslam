@@ -7,12 +7,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Umar</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack AI Developer</h3>
 <img align ="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CH-Umar-Aslam&label=Profile%20views&color=0e75b6&style=flat" alt="umaraslam" /> </p>
 
-- 🔭 Full Stack (Python/React) Developer at **TMR Consulting**
+- 🔭 Full Stack AI Developer at **TMR Consulting**
 
 - 🌱 Doing **Image Detection with Deep Learning**
 
