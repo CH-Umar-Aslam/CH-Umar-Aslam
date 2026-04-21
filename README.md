@@ -1,6 +1,6 @@
  <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Pi-unrolled-720.gif" height="180" autoplay=true  alt="master head"> 
-</div>
+</div> 
 
 
 
@@ -49,13 +49,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CH-Umar-Aslam" alt="" /></p>
 
-Live Projects
 
-<a href="https://umars-ecommerce.vercel.app/">Ecommece web app</a> <t/><br/>
+
+<!--  Live Projects <a href="https://umars-ecommerce.vercel.app/">Ecommece web app</a> <t/><br/>
 <a href="https://recgenz.com/">Recgenz's Site</a> <t/><br/>
 <a href="https://ezitech-clone.netlify.app/">Ezitech clone</a> <t/><br/>
 <a href="https://password-picker.netlify.app/">Password picker</a><t/><br/>
 <a href="https://react18-todo.vercel.app/">Todo app</a><t/><br/>
-<a href="https://lms-dashboard-next.vercel.app/">Lms dashboard</a><br/>
+<a href="https://lms-dashboard-next.vercel.app/">Lms dashboard</a><br/> -->
 
  
