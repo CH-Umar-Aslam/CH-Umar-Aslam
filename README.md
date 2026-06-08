@@ -3,9 +3,6 @@
 </div> 
 
 
-
-
-
 <h1 align="center">Hi 👋, I'm Umar</h1>
 <h3 align="center">A passionate AI Engineer</h3>
 <img align ="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
@@ -27,11 +24,8 @@
 <a href="https://www.linkedin.com/in/ch-umar-aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-tayyab-826a5a292" height="30" width="40" /></a>
 </p>
 
-  <img
-    align="left"
-    src="https://api.github.com/users/CH-Umar-Aslam/repos"
-    alt="Top Languages"
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CH-Umar-Aslam&layout=compact" />
+
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CH-Umar-Aslam" alt="" /></p>
 
