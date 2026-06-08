@@ -43,12 +43,13 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev&show_icons=true&locale=en&layout=compact" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CH-Umar-Aslam&show_icons=true&locale=en&layout=compact" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CH-Umar-Aslam&show_icons=true&locale=en" alt="CH-UMAR-ASLAM" /></p>
+## Contribution Graph
+
+[![Umar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CH-Umar-Aslam&theme=github-compact)](https://github.com/CH-Umar-Aslam)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CH-Umar-Aslam" alt="" /></p>
-
 
 
 <!--  Live Projects <a href="https://umars-ecommerce.vercel.app/">Ecommece web app</a> <t/><br/>
