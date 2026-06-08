@@ -29,7 +29,7 @@
 
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dev&show_icons=true&locale=en&layout=compact"
+    src="https://api.github.com/users/CH-Umar-Aslam/repos"
     alt="Top Languages"
   />
 </p>
