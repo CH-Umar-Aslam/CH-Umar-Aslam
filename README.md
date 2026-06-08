@@ -21,19 +21,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ch-umar-aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-tayyab-826a5a292" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ch-umar-aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Umar Aslam" height="30" width="40" /></a>
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CH-Umar-Aslam&layout=compact" />
 
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CH-Umar-Aslam" alt="" /></p>
 
 ## Contribution Graph
 [![Umar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CH-Umar-Aslam&theme=github-compact)](https://github.com/CH-Umar-Aslam)
-
-
-
 
 
 
